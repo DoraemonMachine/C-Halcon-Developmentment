@@ -1,0 +1,13 @@
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\bin\Debug\day1.exe.config
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\bin\Debug\day1.exe
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\bin\Debug\day1.pdb
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\bin\Debug\halcondotnet.dll
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\bin\Debug\halcondotnet.xml
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.csprojAssemblyReference.cache
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.Form1.resources
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.Properties.Resources.resources
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.csproj.GenerateResource.cache
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.csproj.CoreCompileInputs.cache
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.csproj.CopyComplete
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.exe
+D:\A机器视觉\Halcon+c#联合\练习\day1\day1\obj\Debug\day1.pdb
